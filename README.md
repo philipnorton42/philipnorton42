@@ -14,7 +14,7 @@ I work for [Code Enigma](https://www.codeenigma.com/) and live in the North West
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,arduino,bash,bitbucket,bootstrap,c,cpp,cloudflare,cmake,codepen,css,cypress,discord,docker,elasticsearch,figma,git,github,gitlab,gherkin,godot,html,htmx,js,jquery,laravel,linux,lua,md,mysql,nginx,nodejs,p5js,php,phpstorm,postman,py,raspberrypi,redis,regex,sass,sqlite,selenium,svg,symfony,threejs,ubuntu,vim,vscode&perline=12" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=ansible,arduino,bash,bitbucket,bootstrap,c,cpp,cloudflare,cmake,codepen,css,cypress,discord,docker,elasticsearch,figma,git,github,gitlab,gherkin,godot,html,htmx,js,jquery,laravel,linux,lua,md,mysql,nginx,nodejs,p5js,php,phpstorm,postman,py,raspberrypi,redis,regex,sass,sqlite,selenium,svg,symfony,threejs,ubuntu,vim,vscode&perline=7" alt="Skills Icons" />
   </a>
 </p>
 ... and certainly a few more!
