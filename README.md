@@ -4,13 +4,13 @@ I am a developer, mostly focusing on PHP CMS systems (especially Drupal), but ea
 
 I work for [Code Enigma](https://www.codeenigma.com/) and live in the North West of the UK.
 
-### Find Me!
+### 📫 Find Me!
 
 - [#! code](https://www.hashbangcode.com/author/philipnorton42)
 - [LinkedIn](https://www.linkedin.com/in/philipnorton/)
 - [Mastodon](https://fosstodon.org/@philipnorton42)
 
-### Technologies I know 
+### ⚡ Technologies I know 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,24 +19,10 @@ I work for [Code Enigma](https://www.codeenigma.com/) and live in the North West
 </p>
 ... and certainly a few more!
 
+### 💬 Ask me about ...
 
+I've been building Drupal sites for about 15 years.
 
+### 😄 Pronouns
 
-
-
-
-
-<!--
-**philipnorton42/philipnorton42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+He/Him
