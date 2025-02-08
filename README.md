@@ -9,8 +9,9 @@ I work for [Code Enigma](https://www.codeenigma.com/) and live in the North West
 - [#! code](https://www.hashbangcode.com/author/philipnorton42)
 - [LinkedIn](https://www.linkedin.com/in/philipnorton/)
 - [Mastodon](https://fosstodon.org/@philipnorton42)
+- [#! code :octocat:](https://github.com/hashbangcode)
 
-### ⚡ Technologies I know 
+### 💻 Technologies I know 
 
 I primarily work with <strong>PHP</strong> and <strong>JavaScript</strong>, but I have also worked with (in alphabetical order).
 
