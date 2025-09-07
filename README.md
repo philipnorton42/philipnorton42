@@ -2,6 +2,8 @@
 
 I am a developer, mostly focusing on PHP CMS systems (especially Drupal), but eager to learn all sorts of stuff.
 
+I run a coding site called [#! code](https://www.hashbangcode.com/).
+
 I work for [Code Enigma](https://www.codeenigma.com/) and live in the North West of the UK.
 
 ### 📫 Find Me!
